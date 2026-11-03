@@ -1,0 +1,6 @@
+# Données (trop lourdes pour GitHub) : décompresser donnees_banque.zip dans data/
+data/
+*.zip
+*.parquet
+.ipynb_checkpoints/
+__pycache__/
